@@ -6,10 +6,10 @@ El término STEAM surge de las siglas en inglés de:  Science, Technology, Engin
 Es un robot de programación gráfica para educación diseñado para micro:bit. Su chasis es plug and play y permite a los niños aprender rápidamente programación gráfica
 
 ![image](maq.jpg)
-## [Módulo1:](modulo1.md)
-## [Módulo2: ](modulo2.md)
-## [Modulo 3:](modulo3.md)
-## [Modulo 4: Ampliación](modulo4.md)
+## [Módulo1:Descripcion y montaje](modulo1.md)
+## [Módulo2:Programación básica 1](modulo2.md)
+## [Modulo 3:Programación básica 2](modulo3.md)
+## [Modulo 4:Ampliación](modulo4.md)
 ## [Proyecto](proyecto.md)
 ## [Autor](autor.md)
 ## [Licencia](licencia.md)
