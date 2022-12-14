@@ -3,7 +3,7 @@
 - ### ¿Que es STEAM? 
 El término STEAM surge de las siglas en inglés de:  Science, Technology, Engineering, Arts & Mathematics.
 - ### ¿Que es un Robot maqueen?
-
+Es un robot de programación gráfica para educación diseñado para micro:bit. Su chasis es plug and play y permite a los niños aprender rápidamente programación gráfica
 
 ![image]()
 ## [Módulo1:](modulo1.md)
