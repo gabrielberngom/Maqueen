@@ -11,5 +11,5 @@ Es un robot de programación gráfica para educación diseñado para micro:bit. 
 ## [Modulo 3:Programación básica 2](modulo3.md)
 ## [Modulo 4:Ampliación](modulo4.md)
 ## [Proyecto](proyecto.md)
-## [Autor](autor.md)
+## [Autores](autores.md)
 ## [Licencia](licencia.md)
