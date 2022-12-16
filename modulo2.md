@@ -9,7 +9,10 @@ En este ejercicio se programa la microbit para que al encenderse muestre una car
 -[Enlace al video de la Mcqueen reproduciendo el programa](https://www.youtube.com/shorts/29INlVmVf9U)
 
 ## Ejemplo 2
+Aqui dividiremos el ejercicio en tres ejemplos, que consistiran en el uso de los motores, la modificación de la velocidad y la dirección, y el control de RGB
+con la extensión neopixel.
 
+### ejemplo 2.1
 ![image]()
 
 -[Enlace al programa]()
