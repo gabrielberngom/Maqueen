@@ -30,7 +30,7 @@ con la extensión neopixel.
 
 ### Ejemplo 2.3: Motores y led's.
 
-![image](Ejemplo-2-3.png)
+![image](Ejemplo-2-3.PNG)
 
 -[Enlace al programa](microbit-motores-y-leds.hex)
 
