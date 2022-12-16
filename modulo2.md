@@ -29,9 +29,10 @@ con la extensión neopixel.
 -[Enlace al video de la Mcqueen reproduciendo el programa]()
 
 ### Ejemplo 2.3: Motores y led's.
-
+En este ejercicio programaremos la mcqueen para que al pulsar el boton A avance a maxima velocidad mientras enciende los leds RGB, despues de reproducir una melodia.
+cuando pulse el botón B, se encenderan los leds en otros colores.
 ![image](Ejemplo-2-3.PNG)
 
 -[Enlace al programa](microbit-motores-y-leds.hex)
 
--[Enlace al video de la Mcqueen reproduciendo el programa]()
+-[Enlace al video de la Mcqueen reproduciendo el programa](https://www.youtube.com/watch?v=Pjtv0cjMd7I)
