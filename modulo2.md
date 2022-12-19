@@ -10,23 +10,7 @@ En este ejercicio se programa la microbit para que al encenderse muestre una car
 
 ## Ejemplo 2
 Aqui dividiremos el ejercicio en tres ejemplos, que consistiran en el uso de los motores, la modificación de la velocidad y la dirección, y el control de RGB
-con la extensión neopixel.
-
-### ejemplo 2.1: Robot gira hacia la derecha y enciende el led derecho.
-
-![image]()
-
--[Enlace al programa]()
-
--[Enlace al video de la Mcqueen reproduciendo el programa]()
-
-### Ejemplo 2.2: RGB.
-
-![image]()
-
--[Enlace al programa]()
-
--[Enlace al video de la Mcqueen reproduciendo el programa]()
+con la extensión neopixel. (solo es necesario hacer uno)
 
 ### Ejemplo 2.3: Motores y led's.
 En este ejercicio programaremos la mcqueen para que al pulsar el boton A avance a maxima velocidad mientras enciende los leds RGB, despues de reproducir una melodia.
