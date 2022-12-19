@@ -7,3 +7,6 @@ En esta tare programaremos la microbit para que use los sensores de temperatura 
 - [codigo microbit]()
 
 - [video funcionamiento]()
+
+## Ejemplo adicional
+El robot debe avanzar en linea recta 5 segundos, a continuación, dara una vuelta de 180º y volvera al punto de inicio.
