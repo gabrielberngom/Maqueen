@@ -20,3 +20,9 @@ cuando pulse el botón B, se encenderan los leds en otros colores.
 -[Enlace al programa](microbit-motores-y-leds.hex)
 
 -[Enlace al video de la Mcqueen reproduciendo el programa](https://www.youtube.com/watch?v=Pjtv0cjMd7I)
+
+### Carrera de maqueen.
+Crearemos un programa para realizar una pequeña carrera con los robots maqueen. La carrera es simple, el robot microbit abanzará durante 10 segundos mientras se activan una serie de leds y se reproducen una serie de sonidos. Al iniciar aparecerá una imagen en los leds.
+![image](cap_carrera.png)
+
+-[Enlace al programa](microbit_carrera.hex)
