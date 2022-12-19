@@ -15,4 +15,4 @@ El robot debe avanzar en linea recta 5 segundos, a continuación, dara una vuelt
 
 - [codigo microbit](microbit-ejemplo-adicional.hex)
 
-- [video funcionamiento]()
+- [video funcionamiento](https://www.youtube.com/watch?v=3IOH6qUYyAM)
