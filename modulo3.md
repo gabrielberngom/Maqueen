@@ -4,7 +4,7 @@ En esta tare programaremos la microbit para que use los sensores de temperatura 
 
 ![image](fotomodulo3.png)
 
-- [codigo microbit]()
+- [codigo microbit](microbit-modificarvariable.hex)
 
 - [video funcionamiento]()
 
