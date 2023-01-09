@@ -16,5 +16,7 @@ Una vez realizado el punto anterior, realizaremos un nuevo programa, el cual con
 - Tecla LEFT - Num 200 - `IR HACIA LA IZQUIERDA`
 - Tecla RIGHT - Num 201 - `IR HACIA LA DERECHA`
 - Tecla ENTER - Num 202 - `PARAR`
+
+
 ![image](ejem2.2.PNG)
 - [CÓDIGO](microbit-ejem22.hex)
