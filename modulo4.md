@@ -7,7 +7,7 @@ En este ejercicio tienes que configurar una placa de microbit que sea el que con
 ## Control del robot a través de un mando
 Primero tenemos que realizar un pequeño codigo, el cual necesitaremos para saber que numero da cada boton que pulsemos.
 Dichos numeros tendremos que anotarlos.
- - [!image](ejem2.1.PNG)
+ ![image](ejem2.1.PNG)
  - [CÓDIGO](microbit-ejem21.hex)
 
 Una vez realizado el punto anterior, realizaremos un nuevo programa, el cual controlará los motores para que el robot haga lo que nosotros queramos. en este caso es:
@@ -16,5 +16,5 @@ Una vez realizado el punto anterior, realizaremos un nuevo programa, el cual con
 - Tecla LEFT - Num 200 - `IR HACIA LA IZQUIERDA`
 - Tecla RIGHT - Num 201 - `IR HACIA LA DERECHA`
 - Tecla ENTER - Num 202 - `PARAR`
-- [!image](ejem2.2.PNG)
+![image](ejem2.2.PNG)
 - [CÓDIGO](microbit-ejem22.hex)
