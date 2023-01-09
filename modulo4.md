@@ -4,13 +4,14 @@ En este ejercicio tienes que configurar una placa de microbit que sea el que con
 - [Codigo microbit](microbit-modulo_ampliacion_video4.hex)
 - [Codigo microbit](microbit-modulo_ampliacion_video4_ejemplo2.hex)
 
-## Control del robot a través de un mando
+# Ejemplo 2: Control del robot a través de un mando
 Primero tenemos que realizar un pequeño codigo, el cual necesitaremos para saber que numero da cada boton que pulsemos.
 Dichos numeros tendremos que anotarlos.
+
  ![image](ejem2.1.PNG)
  - [CÓDIGO](microbit-ejem21.hex)
 
-Una vez realizado el punto anterior, realizaremos un nuevo programa, el cual controlará los motores para que el robot haga lo que nosotros queramos. en este caso es:
+Una vez realizado el apartado anterior, realizaremos un nuevo programa, el cual controlará los motores para que el robot haga lo que nosotros queramos. en este caso es:
 - Tecla UP - Num 198 - `IR HACIA DELANTE`
 - Tecla DOWN - Num 199 - `IR HACIA ATRAS`
 - Tecla LEFT - Num 200 - `IR HACIA LA IZQUIERDA`
@@ -20,3 +21,4 @@ Una vez realizado el punto anterior, realizaremos un nuevo programa, el cual con
 
 ![image](ejem2.2.PNG)
 - [CÓDIGO](microbit-ejem22.hex)
+- [VÍDEO]()
