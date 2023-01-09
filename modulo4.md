@@ -28,4 +28,4 @@ En este caso es:
 
 ![image](ejem2.2.PNG)
 - [CÓDIGO](microbit-ejem22.hex)
-- [VÍDEO]()
+- [VÍDEO](https://youtube.com/shorts/NtKUifpcM6M?feature=share)
