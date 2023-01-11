@@ -1,6 +1,6 @@
 ## Control por radio y mando IR
 # Ejemplo 1: control del robot utilizando otro microbit
-En este ejercicio tienes que configurar una placa de microbit que sea el que controlará al maqueen, y lo que hara la microbit es a traves de los botones se cambien de color los leds del maqueen
+En este ejercicio tienes que controlar los leds de maqueen a traves de una placa de microbit aparte, es decir cuando presione un boton u otro se cambie de color.
 
 ![image](video4ej1.png)
 ![image](video4ej2.png)
