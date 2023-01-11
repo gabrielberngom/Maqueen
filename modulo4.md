@@ -37,4 +37,4 @@ El código para el sensor de sonido consiste en que al realizar un sonido, el se
 ![image](eje3.PNG)
 
 - [CÓDIGO](microbit-sensor-de-sonido.hex)
-- [VÍDEO]()
+- [VÍDEO](https://youtube.com/shorts/halrqbR2ZaA?feature=share)
