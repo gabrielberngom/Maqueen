@@ -51,5 +51,5 @@ El Código consiste en, el robot avanza, cuando el sensor de ultrasonido detecte
 Este codigo consiste en que hay una linea negra por lo cual el robot maqueen la tiene que seguir, y cuando este fuera de la linea negra la intentara encontrar como el motor solo en direccion para adelante
 
 ![image](robotlinea.png)
--[CODIGO](microbit-mcqueen-linea.hex)
--[VIDEO](https://youtube.com/shorts/jKWAmS0edgU?feature=share)
+- [CODIGO](microbit-mcqueen-linea.hex)
+- [VIDEO](https://youtube.com/shorts/jKWAmS0edgU?feature=share)
