@@ -29,3 +29,11 @@ En este caso es:
 ![image](ejem2.2.PNG)
 - [CÓDIGO](microbit-ejem22.hex)
 - [VÍDEO](https://youtube.com/shorts/NtKUifpcM6M?feature=share)
+
+# Ejemplo 3: Sensor de sonido
+El código para el sensor de sonido consiste en que al realizar un sonido, el sensor lo detecte y realize la acción que queramos, en este caso, es que el robot gire a la izquierda, se le cambie el color de los led y reproduzca un sonido y que cuando no reconozca ningun sonido, de pare, no reproduzca nungún sonido y cambie el color de los leds. 
+
+![image]()
+
+- [CÓDIGO]()
+- [VÍDEO]()
