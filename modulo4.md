@@ -40,9 +40,9 @@ El código para el sensor de sonido consiste en que al realizar un sonido, el se
 - [VÍDEO](https://youtube.com/shorts/halrqbR2ZaA?feature=share)
 
 # Ejemplo 4: Sensor de ultrasonido
+El Código consiste en, el robot avanza, cuando el sensor de ultrasonido detecte un obstaculo a una distancia (marcada en el programa), cambiará de dirección, en este caso el cambio de dirección es al azar, mero se puede hacer que gire a la misma dirección simpre, cuano el sensor deje de detectar un objeto, volverá a avanzar.
 
+![image](eje4.png)
 
-![image]()
-
-- [CÓDIGO]()
+- [CÓDIGO](microbit-sensor-ultrasonido.hex)
 - [VÍDEO]()
