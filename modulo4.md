@@ -45,4 +45,4 @@ El Código consiste en, el robot avanza, cuando el sensor de ultrasonido detecte
 ![image](eje4.png)
 
 - [CÓDIGO](microbit-sensor-ultrasonido.hex)
-- [VÍDEO]()
+- [VÍDEO](https://youtube.com/shorts/RC3SltphyQk?feature=share)
