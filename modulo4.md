@@ -5,9 +5,9 @@ En este ejercicio tienes que controlar los leds de maqueen a traves de una placa
 ![image](video4ej1.png)
 ![image](video4ej2.png)
 
-- [Codigo microbit](microbit-modulo_ampliacion_video4.hex)
-- [Codigo microbit](microbit-modulo_ampliacion_video4_ejemplo2.hex)
-- [enlace video](https://youtube.com/shorts/KYnD0uvBFBE?feature=share)
+- [CÓDIGO](microbit-modulo_ampliacion_video4.hex)
+- [CÓDIGO](microbit-modulo_ampliacion_video4_ejemplo2.hex)
+- [VÍDEO](https://youtube.com/shorts/KYnD0uvBFBE?feature=share)
 
 # Ejemplo 2: Control del robot a través de un mando
 Primero tenemos que realizar un pequeño codigo, el cual necesitaremos para saber que numero da cada boton que pulsemos.
