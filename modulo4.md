@@ -25,6 +25,7 @@ En este caso es:
 - Tecla RIGHT - Num 201 - `GIRAR HACIA LA DERECHA`
 - Tecla ENTER - Num 202 - `PARAR`
 
+El Código es simple, a cada acción se le ha asignado un número, cuando el robot detecte dicho número, realizará la acción que hemos configurado.
 
 ![image](ejem2.2.PNG)
 - [CÓDIGO](microbit-ejem22.hex)
