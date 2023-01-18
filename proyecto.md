@@ -6,6 +6,6 @@ Las acciones són: La mascota te seguirá ( pulsando el boton + ) mediante el se
 
 ![image]()
 
-[CÓDIGO]()
+- [CÓDIGO]()
 
-[VÍDEO]()
+- [VÍDEO]()
