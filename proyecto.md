@@ -9,6 +9,8 @@ La mascota te seguirá (pulsando el boton A) mediante el sensor de ultrasonido y
 Modo aleatorio (pulsando el boton B), en el que realizará acciónes aleatorias (dar vueltas, girar, estarse quieto, andar en una direccion, hacer ruidos, etc)
 
 ![image]()
+![image]()
+![image]()
 
 - [CÓDIGO]()
 
