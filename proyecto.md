@@ -14,4 +14,4 @@ Modo aleatorio (pulsando el boton B), en el que realizará acciónes aleatorias 
 
 - [CÓDIGO](microbit-proyecto-final.hex)
 
-- [VÍDEO]()
+- [VÍDEO](https://youtu.be/wk6fT61vwlw)
